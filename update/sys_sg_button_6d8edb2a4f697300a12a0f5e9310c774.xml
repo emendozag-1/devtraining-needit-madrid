@@ -9,10 +9,11 @@
         <confirm_label/>
         <confirmation_message/>
         <context>record</context>
-        <description>Update de value of the short description field on needlt record </description>
+        <description>Crear &#13;
+Nuevo Registro</description>
         <destination_screen/>
         <external_browser>false</external_browser>
-        <failure_message>the short description failed was not updated</failure_message>
+        <failure_message>No se pudo registrar</failure_message>
         <field_name/>
         <jump_to_screen>false</jump_to_screen>
         <link_label/>
@@ -20,7 +21,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Update short description</name>
+        <name>Create New</name>
         <phone_number/>
         <phone_type>cellular</phone_type>
         <relative_url>true</relative_url>
@@ -29,24 +30,23 @@
         <show_confirmation>false</show_confirmation>
         <show_signature>false</show_signature>
         <sms/>
-        <success_message>the new &#13;
-Short description for {{number}} is {{short_description}}</success_message>
+        <success_message>Nuevo registro ingresado</success_message>
         <sys_class_name>sys_sg_button</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-23 19:43:50</sys_created_on>
-        <sys_id>41855f1e4fed3300a12a0f5e9310c74c</sys_id>
+        <sys_created_on>2019-05-24 14:59:34</sys_created_on>
+        <sys_id>6d8edb2a4f697300a12a0f5e9310c774</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Update short description</sys_name>
+        <sys_name>Create New</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_sg_button_41855f1e4fed3300a12a0f5e9310c74c</sys_update_name>
+        <sys_update_name>sys_sg_button_6d8edb2a4f697300a12a0f5e9310c774</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-23 19:43:50</sys_updated_on>
+        <sys_updated_on>2019-05-24 14:59:34</sys_updated_on>
         <table/>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
-        <write_back_action_item display_value="Update short description">88b6f29a4fad3300a12a0f5e9310c794</write_back_action_item>
+        <write_back_action_item display_value="Creare New">3563b21a4fad3300a12a0f5e9310c719</write_back_action_item>
     </sys_sg_button>
-    <sys_translated_text action="delete_multiple" query="documentkey=41855f1e4fed3300a12a0f5e9310c74c"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=6d8edb2a4f697300a12a0f5e9310c774"/>
 </record_update>
