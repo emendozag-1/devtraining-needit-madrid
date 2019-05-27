@@ -6,7 +6,7 @@
         <description>List of NeedIt requests due next quarter</description>
         <fetch_type>not_required</fetch_type>
         <hidden>false</hidden>
-        <icon display_value="list-alt">14548c13db84b7007520f5861d961961</icon>
+        <icon display_value="address-card">14548c13db84b7007520f5861d961961</icon>
         <item_view display_value="NeedIt Next Quarter detail item view">d154c413db84b7007520f5861d96198d</item_view>
         <name>Details</name>
         <order>10</order>
@@ -26,4 +26,5 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2019-03-12 17:27:47</sys_updated_on>
     </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce54c413db84b7007520f5861d961991"/>
 </record_update>
